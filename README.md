@@ -30,4 +30,4 @@ No external libraries used
 
 
 👨‍💻 Author
-Sakshi Nagaraj
+krupa
